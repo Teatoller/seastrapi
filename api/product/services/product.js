@@ -5,4 +5,12 @@
  * to customize this service
  */
 
-module.exports = {};
+module.exports = {
+
+    // tailor product services response
+    
+    // find(params, populate) {
+    //     console.log("product services 123..");
+    //     return strapi.query("product").find(params, populate);
+    //   },
+};
